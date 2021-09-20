@@ -1,4 +1,4 @@
-## Comprimir imagens
+## Comprimir imagens bucket aws
 ![Badge](https://img.shields.io/badge/nodejs-12.x%20-green)
 ![Badge](https://img.shields.io/badge/AWS-Lambda%20-green)
   
